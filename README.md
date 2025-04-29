@@ -18,6 +18,9 @@ A simple mod that tracks and displays your total player deaths during gameplay i
 
 ## Configuration
 
+Currently only way to display the counter is be
+Press F10 to toggle force UI display mode (shows the counter everywhere).
+
 (Optional)
 
 You can adjust the position of the death counter by modifying the `xPos` and `yPos` values in the `OnGUI()` method of the `DeathCount.cs` file if you are compiling it yourself.
@@ -25,7 +28,6 @@ You can adjust the position of the death counter by modifying the `xPos` and `yP
 For debugging, press F7 during gameplay to see scene information and debug state in the BepInEx console.
 Press F8 to manually increment the death counter for testing.
 Press F9 to manually decrement the death counter.
-Press F10 to toggle force UI display mode (shows the counter everywhere).
 
 ## Changelog
 
