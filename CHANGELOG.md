@@ -9,3 +9,8 @@
 - Includes basic death detection via PlayerAvatar.PlayerDeath and PlayerController.Revive.
 - Added cooldown to prevent double-counting deaths.
 - Provides debugging keys (F7, F8, F9, F10).
+
+
+## 1.0.1 - 2025-04-29
+
+- Updated README Information
