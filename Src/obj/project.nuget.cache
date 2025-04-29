@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uUdY8f9Ehvg=",
+  "dgSpecHash": "yTcRVKdP/dc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Documents\\Death\\DeathCount.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Documents\\Death\\Src\\DeathCount.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.1\\bepinex.assemblypublicizer.msbuild.0.4.1.nupkg.sha512",

@@ -2921,11 +2921,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Documents\\Death\\DeathCount.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Documents\\Death\\Src\\DeathCount.csproj",
       "projectName": "DeathCount",
-      "projectPath": "C:\\Users\\marti\\Documents\\Death\\DeathCount.csproj",
+      "projectPath": "C:\\Users\\marti\\Documents\\Death\\Src\\DeathCount.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\Documents\\Death\\obj\\",
+      "outputPath": "C:\\Users\\marti\\Documents\\Death\\Src\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config"

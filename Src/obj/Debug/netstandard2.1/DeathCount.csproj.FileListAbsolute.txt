@@ -1,0 +1,9 @@
+C:\Users\marti\Documents\Death\Src\bin\Debug\netstandard2.1\DeathCount.deps.json
+C:\Users\marti\Documents\Death\Src\bin\Debug\netstandard2.1\DeathCount.dll
+C:\Users\marti\Documents\Death\Src\obj\Debug\netstandard2.1\DeathCount.csproj.AssemblyReference.cache
+C:\Users\marti\Documents\Death\Src\obj\Debug\netstandard2.1\DeathCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Documents\Death\Src\obj\Debug\netstandard2.1\DeathCount.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\Death\Src\obj\Debug\netstandard2.1\DeathCount.AssemblyInfo.cs
+C:\Users\marti\Documents\Death\Src\obj\Debug\netstandard2.1\DeathCount.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\Death\Src\obj\Debug\netstandard2.1\DeathCount.sourcelink.json
+C:\Users\marti\Documents\Death\Src\obj\Debug\netstandard2.1\DeathCount.dll

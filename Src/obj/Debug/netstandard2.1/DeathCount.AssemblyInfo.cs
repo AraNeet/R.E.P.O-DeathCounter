@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ara")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcb2c8f28c1634180b902a74f93c4908b498ede6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeathCount")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeathCount")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
