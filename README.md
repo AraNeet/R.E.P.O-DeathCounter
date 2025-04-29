@@ -38,4 +38,4 @@ See [CHANGELOG.md](CHANGELOG.md)
 
 ## Support
 
-If you encounter any issues or have suggestions, please report them [link to your GitHub issues page or other support channel, or remove if none].
+If you encounter any issues or have suggestions, please report them https://github.com/AraNeet.
