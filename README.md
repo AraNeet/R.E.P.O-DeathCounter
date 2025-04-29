@@ -38,4 +38,4 @@ See [CHANGELOG.md](CHANGELOG.md)
 
 ## Support
 
-If you encounter any issues or have suggestions, please report them https://github.com/AraNeet.
+If you encounter any issues or have suggestions, please report them https://github.com/AraNeet/R.E.P.O-DeathCounter.
